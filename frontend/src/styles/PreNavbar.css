@@ -1,0 +1,42 @@
+.PreNav{
+    background-color: #232F3E;
+    display: grid;
+    color: #FFFFFF;
+    grid-template-columns: 5fr 2fr;
+}
+
+.PreNav > div{
+    padding: 0 1vmax;
+    display: flex;
+    align-items: center;
+}
+
+.PreNav >div > span{
+
+font-size: 0.8vmax;
+font-weight: 100;
+
+} 
+
+
+.PreNav >div > a{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family:sans-serif;
+    margin: 2px;
+    padding: 4px 9px;
+    text-decoration: none;
+    font-weight:600 ;
+    
+}
+
+.PreNav >div > a:hover{
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+
+.shoppingimg:hover{
+    border: 1px solid white;
+    border-radius: 3px;
+}

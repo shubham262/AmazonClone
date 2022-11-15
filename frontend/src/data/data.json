@@ -1,0 +1,204 @@
+{
+    "banner": {
+        "start": [
+              "https://m.media-amazon.com/images/I/71xanPwQm2L._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/718wbemJ3PL._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/61LWozbSZ8L._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/61GA6L9QzdL._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/81-Vfb-iEhL._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/617CoD4euRL._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/618B1HnAxLL._SX3000_.jpg",
+              "https://m.media-amazon.com/images/I/61MRwBb6+LL._SX3000_.jpg"
+              
+        ]
+        
+  },
+  "logo":"https://zeevector.com/wp-content/uploads/LOGO/Amazon-India-Logo-PNG-White.png",
+  "cards":[
+
+      {    "text":"Amazon Pay | Pay credit card & postpaid bills",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/PCrevised/Subscriptions_372x232._SY232_CB628894454_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/GPRC_372x232._SY232_CB646259375_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/CCBP_372x232._SY232_CB646259375_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/Postpaid_372x232._SY232_CB646259375_.jpg"
+       },
+      {     "text":"Upgrade your home | Amazon Brands & more",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/Kitchen2x._SY232_CB627276315_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/Furniture_2x._SY232_CB627276484_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/Appliances_2x._SY232_CB627276474_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/TV_2x._SY232_CB627276474_.jpg"
+      },
+      {     "text":"Top rated, premium quality | Amazon Brands &",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2020/GatewayNK/PC/spb_372x232._SY232_CB433889053_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/DE_2x._SY232_CB627275939_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/Furn_2x._SY232_CB627275939_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/Home_2x._SY232_CB627275939_.jpg"
+      },
+      {    "text":"Up to 60% off | Styles for Women",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Gateway/WRS-Jun/PC_QC_186/Comp-186/372/7-min._SY232_CB666463578_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Gateway/WRS-Jun/PC_QC_186/Comp-186/372/8-min._SY232_CB666463578_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Gateway/WRS-Jun/PC_QC_186/Comp-186/372/6-min._SY232_CB666463578_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Gateway/WRS-Jun/PC_QC_186/Comp-186/372/5-min._SY232_CB666463578_.jpg"
+
+      },
+      {    "text":"Automotive essentials | Up to 60% off",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum2x._SY232_CB410830555_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_372x232._SY232_CB405083904_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare2x._SY232_CB410830552_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare2x._SY232_CB410830552_.jpg"
+
+      },
+      {    "text":"Top picks for your home",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08CPQVLZT._SY232_CB667322346_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/B07G5J5FYP._SY232_CB667322346_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/B08345R1ZW---372x232._SY232_CB667322346_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-372x232----B08RDL6H79._SY232_CB667322346_.jpg"
+
+      },
+      {    "text":"Family essentials | Amazon Brands & more",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/QC/PC/Bty_372x232._SY232_CB654406617_.jpg",
+            "b":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW/QC/PC/Baby_372x232._SY232_CB654406617_.jpg",
+            "c":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/AmazonBrands/GW/QC/DailyEss_PC_2_372x232._SY232_CB430709131_.jpg",
+            "d":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/AmazonBrands/GW/QC/DailyEss_PC_1_372x232._SY232_CB430709131_.jpg"
+
+      },
+      {    "text":"4 star+ rated kitchen products | Amazon Brands...",
+            "a":"https://images-eu.ssl-images-amazon.com/images/G/31/home_private_label/moritika/kitchenbaupccc/xcm_banners_bau_pc_cc_379x304_758x608_in-en._SY608_CB643325605_.jpg"
+            
+
+      }
+  ],
+
+  "Slickslider": {
+      "start": [
+                  "https://m.media-amazon.com/images/I/41u43kSx7FL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41xssMLI2DL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41pfjyUPZLL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41bcDPSMueL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41ezRvTwcaL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41Ix2JelnmL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/31xFRzpNSKL._AC_SY400_.jpg",
+                  "https://m.media-amazon.com/images/I/41xCSdFiuaL._AC_SY400_.jpg"
+      
+            
+      ]
+      
+},
+"footer": {
+      "support": [
+            {
+                  "name": "About Us",
+                  "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+            },
+            {
+                  "name": "Carrers",
+                  "url": "https://www.mi.com/in/service/online/"
+            },
+            {
+                  "name": "Press Releases",
+                  "url": "https://www.mi.com/in/service/shipping/"
+            },
+            {
+                  "name": "Amazon Cares",
+                  "url": "https://www.mi.com/in/service/repair/"
+            },
+            {
+                  "name": "Gift A Smile",
+                  "url": "https://www.mi.com/in/service/warranty/"
+            },
+            {
+                  "name": "Amazon Science",
+                  "url": "https://www.mi.com/in/miexchange/"
+            }
+            
+      ],
+      "shopAndLearn": [
+            {
+                  "name": "Facebook",
+                  "url": "https://www.mi.com/in/mi-10i/"
+            },
+            {
+                  "name": "Twitter",
+                  "url": "https://in.event.mi.com/in/mi-10t-series"
+            },
+            {
+                  "name": "Instagram",
+                  "url": "https://www.mi.com/in/mi-11-ultra/"
+            }
+           
+      ],
+      "retailStore": [
+            {
+                  "name": "Sell On Amazon",
+                  "url": "https://www.mi.com/in/about/"
+            },
+            {
+                  "name": "Sell under Amazon Accelerator",
+                  "url": "https://www.mi.com/in/mediakit/"
+            },
+            {
+                  "name": "Become an  Affiliate",
+                  "url": "https://www.mi.com/in/about/#culture"
+            },
+            {
+                  "name": "Fullfillment by Amazon",
+                  "url": "https://www.mi.com/in/about/agreement/"
+            },
+            {
+                  "name": "Advertise Your Products",
+                  "url": "https://www.mi.com/in/about/privacy/"
+            },
+            {
+                  "name": "Amazon Pay on Merchants",
+                  "url": "https://www.mi.com/in/service/support/mideclare.html"
+            }
+      ],
+      "aboutUS": [
+            {
+                  "name": "Covid19 and Amazon",
+                  "url": "https://www.mi.com/in/about/"
+            },
+            {
+                  "name": "Your Account",
+                  "url": "https://www.mi.com/in/mediakit/"
+            },
+            {
+                  "name": "Return Centre",
+                  "url": "https://www.mi.com/in/about/#culture"
+            },
+            {
+                  "name": "100% Purchase Production",
+                  "url": "https://www.mi.com/in/about/agreement/"
+            },
+            {
+                  "name": "Amazon App Download",
+                  "url": "https://www.mi.com/in/about/privacy/"
+            },
+            {
+                  "name": "Amazon Assistant Download",
+                  "url": "https://www.mi.com/in/service/support/mideclare.html"
+            },
+            {
+                  "name": "Help",
+                  "url": "https://www.mi.com/in/service/support/mideclare.html"
+            }
+            
+            
+      ],
+      "contactUs": [
+            {
+                  "name": "Email",
+                  "url": "https://in.event.mi.com/in/questionnaire/email_us"
+            },
+            {
+                  "name": "Careers",
+                  "url": "https://www.mi.com/in/about/#career"
+            }
+      ]
+}
+
+
+
+
+
+}

@@ -1,0 +1,12 @@
+.cards{
+display: flex;
+
+/* margin-left:auto; */
+margin: 2vmax;
+margin-left: 1.5vmax;
+width: 97vw;
+margin-top: -20vmax;
+flex-wrap: wrap;
+/* justify-content: center; */
+
+}

@@ -1,0 +1,34 @@
+.slickslider{
+    background-color: white;
+    padding: 2vmax;
+    width: 94vw;
+    margin: 2vmax;
+}
+
+
+.slickslider img{
+    width: auto;
+    height: auto;
+    max-width: 270px;
+    max-height: 200px;
+    vertical-align: middle;
+    margin: 1vmax;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+ 
+  
+}
+.slick-prev:before {
+    content: "<";
+   font-weight: bolder;
+    font-size: 30px;
+    
+  }
+  
+  .slick-next:before {
+    content: ">";
+    font-weight: bolder;
+    font-size: 30px;
+  }

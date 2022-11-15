@@ -1,0 +1,31 @@
+.layer{
+background-color: white;
+
+padding-bottom: 2vmax;
+cursor: pointer;
+transition: all 0.5s;
+width: 22vmax;
+height:30vmax;
+overflow: hidden;
+padding: 1vmax;
+margin-right: 2vmax;
+margin-bottom: 2vmax;
+justify-content: center;
+align-items: center;
+position: relative;
+z-index: 2;
+
+}
+
+.fourinonecards >h5{
+font-weight: bolder;
+
+}
+.sm{
+    width: 8vmax;
+    height: 8vmax;
+    margin-left: 1vmax;
+    margin-right: 10px;
+    margin-bottom: 35px;
+    margin-top: 10px;
+}
